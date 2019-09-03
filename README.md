@@ -22,5 +22,8 @@ issueページまでお願いします。
 ## Pull Requestは？
 効果的に行える方法が思いつきません。
 
+## PDFを印刷所に入稿することはできますか？
+『[文章系同人誌のための同人誌製作技術 データ入稿篇 Ver.2019](https://www.melonbooks.co.jp/detail/detail.php?product_id=551361)』を読む限り無理だと思います。
+
 ## 今後の予定は？
 LibreOffice 6.4（仮）向けに改訂を行い、その後塩漬けの予定です。
